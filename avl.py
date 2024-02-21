@@ -3,7 +3,7 @@
 # Course: CS261 - Data Structures
 # Assignment: Assignment 5
 # Due Date: Nov 16, 2021
-# Description: Implement the AVL class by completing the provided skeleton code.
+# Description: Implement the AVL class.
 
 
 import random
